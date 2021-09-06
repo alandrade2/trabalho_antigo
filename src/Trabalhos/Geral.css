@@ -1,0 +1,19 @@
+.container-geral {
+    height: 90vh;
+    color: #ffffff;
+    max-height: 80%;    
+}
+
+
+
+header {
+    max-height: 10%;
+}
+
+main {
+    background-color:#88A8DF;
+}
+
+footer {
+    max-height: 10%;    
+}

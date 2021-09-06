@@ -1,0 +1,43 @@
+.footer {
+
+    background-color: #364359;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    /* Dá espaço automaticamente entre os itens de um flexbox */
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.footer a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+.footer ul li {
+    display: inline-block;  /* Coloca os itens de uma lista na horizontal */
+    padding: 0 10px;
+    border-right: 1px solid #ffffff;
+}
+
+.footer ul li:last-child {
+    border-right: none;
+}
+
+.footer img {
+    width: 20px;
+    height: 20px;
+}
+
+.Span-footer {
+    display: block;
+    background-size: 40px 40px;
+    cursor: pointer;
+    display: none;
+}

@@ -1,0 +1,73 @@
+.menu_Trab01 {
+    height: 40px;
+    border: 1px solid rgb(200, 202, 173);
+    background-color: #88A8DF;
+    padding-bottom: 8px;
+    font-size: 16px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.menu_Trab01 ul {
+    list-style: none;
+    text-align: left;    
+}
+
+.menu_Trab01 ul li{
+    display: inline;
+}
+
+
+.menu_Trab01 ul li a:hover {
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.col {
+    justify-content: space-between;
+    padding: 16px;
+}
+.t0 a { 
+    color: white;
+    margin: 5px;
+}
+
+.t1 a, .t2 a, .t3 a {
+    color: white;
+    margin: 5px;
+}
+.t4 a, .t5 a {
+    color: black;
+    margin: 5px;
+}
+.t0{
+    border: 1px solid  rgb(151, 134, 116);
+    background-color: peru;    
+}
+
+.t1{
+    border: 1px solid rgb(26, 90, 37);
+    background-color: green;    
+}
+
+
+.t2{
+    border: 1px solid rgb(206, 159, 159);
+    background-color: rgb(253, 194, 194);    
+}
+
+.t3{
+    border: 1px solid rgb(105, 125, 237);
+    background-color: rgb(153, 178, 243);    
+}
+.t4{
+    border: 1px solid rgb(182, 182, 4);
+    background-color: yellow;    
+}
+.t5{
+    border: 1px solid white;
+    background-color: white;    
+}
